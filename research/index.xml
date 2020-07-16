@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Melissa K. Spencer</title>
-    <link>http://example.org/research/</link>
+    <link>http://melissakspencer.com/research/</link>
     <description>Recent content in Research on Melissa K. Spencer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 16:49:15 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://melissakspencer.com/research/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
