@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infectious Disease on Melissa K. Spencer</title>
+    <link>http://example.org/tags/infectious-disease/</link>
+    <description>Recent content in Infectious Disease on Melissa K. Spencer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/infectious-disease/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Safer Sex?</title>
+      <link>http://example.org/research/inprogress/safer-sex/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/research/inprogress/safer-sex/</guid>
+      <description>The Effect of AIDS Risk on Birth Rates May 5, 2020
+Abstract The advent of HIV/AIDS in the 1980s dramatically increased the cost of contracting a sexually transmitted infection (STI). Prior research shows that people responded to the AIDS epidemic by switching to sexual behaviors and contraceptive methods with lower likelihood of AIDS transmission. These behavioral adjustments also affect the likelihood of pregnancy and the incidence of other STIs. This paper provides evidence that the AIDS epidemic increased the birth rate among adult women by as much as 1.</description>
+    </item>
+    
+  </channel>
+</rss>
