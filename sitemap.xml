@@ -23,17 +23,12 @@
   </url>
   
   <url>
-    <loc>http://melissakspencer.com/tags/hiv/aids/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://melissakspencer.com/tags/infectious-disease/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melissakspencer.com/research/inprogress/safer-sex/</loc>
+    <loc>http://melissakspencer.com/research/workingpapers/safer-sex/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -65,13 +60,13 @@
   </url>
   
   <url>
-    <loc>http://melissakspencer.com/resources/resource/</loc>
+    <loc>http://melissakspencer.com/research/inprogress/in-progress/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://melissakspencer.com/research/workingpapers/working-paper/</loc>
+    <loc>http://melissakspencer.com/resources/resource/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -110,6 +105,10 @@
     <loc>http://melissakspencer.com/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>http://melissakspencer.com/tags/hiv/aids/</loc>
   </url>
   
 </urlset>
