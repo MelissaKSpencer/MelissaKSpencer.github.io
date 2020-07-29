@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economics on Melissa K. Spencer</title>
-    <link>http://melissakspencer.com/tags/economics/</link>
+    <link>https://melissakspencer.com/tags/economics/</link>
     <description>Recent content in Economics on Melissa K. Spencer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
     
-	<atom:link href="http://melissakspencer.com/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://melissakspencer.com/tags/economics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A published paper</title>
-      <link>http://melissakspencer.com/research/published/published-paper/</link>
+      <link>https://melissakspencer.com/research/published/published-paper/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>http://melissakspencer.com/research/published/published-paper/</guid>
+      <guid>https://melissakspencer.com/research/published/published-paper/</guid>
       <description>The subtitle of a published paper Subtitle
 Abstract Abstract</description>
     </item>
     
     <item>
       <title>Resource</title>
-      <link>http://melissakspencer.com/resources/resource/</link>
+      <link>https://melissakspencer.com/resources/resource/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>http://melissakspencer.com/resources/resource/</guid>
+      <guid>https://melissakspencer.com/resources/resource/</guid>
       <description>A resource and some info about it</description>
     </item>
     
