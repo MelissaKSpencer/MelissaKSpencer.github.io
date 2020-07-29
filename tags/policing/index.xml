@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policing on Melissa K. Spencer</title>
+    <link>http://melissakspencer.com/tags/policing/</link>
+    <description>Recent content in Policing on Melissa K. Spencer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://melissakspencer.com/tags/policing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tasers and Fatal Police Encounters</title>
+      <link>http://melissakspencer.com/research/inprogress/tasers/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://melissakspencer.com/research/inprogress/tasers/</guid>
+      <description>The Effect of Tasers on Fatal Police Encounters Abstract There are over 1,000 fatal police encounters per year in the United States, and an estimated 28,000 people have died during encounters with law enforcement since the year 2000. . To decrease fatal encounters, police have sought weapons which can safely incapacitate people while they are taken into custody. One such weapon is the Conducted Energy Device (CED), better known by the brand name Taser.</description>
+    </item>
+    
+  </channel>
+</rss>
