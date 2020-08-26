@@ -3,6 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://melissakspencer.com/research/inprogress/covid-dv/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/research/workingpapers/</loc>
+    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/research/inprogress/tasers/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/research/published/</loc>
+    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/research/inprogress/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/research/inprogress/abortion/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://melissakspencer.com/tags/birthrate/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
@@ -44,12 +80,6 @@
   </url>
   
   <url>
-    <loc>https://melissakspencer.com/research/inprogress/covid-dv/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://melissakspencer.com/tags/covid19/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -70,12 +100,6 @@
   </url>
   
   <url>
-    <loc>https://melissakspencer.com/research/inprogress/tasers/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://melissakspencer.com/tags/abortion/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -83,12 +107,6 @@
   <url>
     <loc>https://melissakspencer.com/tags/health/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://melissakspencer.com/research/inprogress/abortion/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -120,27 +138,9 @@
   </url>
   
   <url>
-    <loc>https://melissakspencer.com/research/inprogress/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://melissakspencer.com/research/published/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://melissakspencer.com/resources/</loc>
     <lastmod>2020-01-07T15:00:28+00:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://melissakspencer.com/research/workingpapers/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
-    <priority>0.8</priority>
   </url>
   
   <url>
