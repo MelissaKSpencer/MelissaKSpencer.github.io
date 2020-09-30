@@ -9,6 +9,12 @@
   </url>
   
   <url>
+    <loc>https://melissakspencer.com/teaching/courses/intermicro/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://melissakspencer.com/research/workingpapers/</loc>
     <lastmod>2020-01-07T15:00:28+00:00</lastmod>
     <priority>0.8</priority>
@@ -29,6 +35,18 @@
   <url>
     <loc>https://melissakspencer.com/research/inprogress/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/teaching/courses/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/teaching/courses/riskybehaviors/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
@@ -133,6 +151,12 @@
   
   <url>
     <loc>https://melissakspencer.com/research/</loc>
+    <lastmod>2020-01-07T16:49:15+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/teaching/</loc>
     <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.5</priority>
   </url>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Melissa K. Spencer</title>
+    <link>https://melissakspencer.com/teaching/courses/</link>
+    <description>Recent content on Melissa K. Spencer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://melissakspencer.com/teaching/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intermediate Microeconomics</title>
+      <link>https://melissakspencer.com/teaching/courses/intermicro/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://melissakspencer.com/teaching/courses/intermicro/</guid>
+      <description>In this course you will learn to use economic models to analyze consumer and producer choices. Intermediate Microeconomics is a core course for the Economics major. My goal in this course is to prepare you for 4000-level economics courses by teaching you to use the standard tools of economic analysis. As such, this course is skills-based: the best way to succeed and prepare for exams is to solve practice problems.</description>
+    </item>
+    
+    <item>
+      <title>Economics of Risky Behaviors</title>
+      <link>https://melissakspencer.com/teaching/courses/riskybehaviors/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://melissakspencer.com/teaching/courses/riskybehaviors/</guid>
+      <description>This course provides a non-technical introduction to the economics of risky behaviors, including crime, alcohol and drug use, risky sexual behavior, and risky health behaviors. Students will learn basic economic concepts and gain insight into the wide range of topics that can be studied with a degree in economics. This course is ideal for introductory level students who are considering a major or minor in economics.</description>
+    </item>
+    
+  </channel>
+</rss>
