@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://melissakspencer.com/research/inprogress/tasers/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://melissakspencer.com/teaching/courses/intermicro/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
@@ -21,27 +15,9 @@
   </url>
   
   <url>
-    <loc>https://melissakspencer.com/research/inprogress/abortion/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://melissakspencer.com/research/published/</loc>
     <lastmod>2020-01-07T15:00:28+00:00</lastmod>
     <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://melissakspencer.com/research/inprogress/covid-dv/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://melissakspencer.com/research/inprogress/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -52,6 +28,12 @@
   
   <url>
     <loc>https://melissakspencer.com/teaching/courses/riskybehaviors/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/research/inprogress/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url>
@@ -98,6 +80,12 @@
   </url>
   
   <url>
+    <loc>https://melissakspencer.com/research/workingpapers/dv-cities/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://melissakspencer.com/research/workingpapers/dv-la/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
@@ -119,18 +107,30 @@
   </url>
   
   <url>
-    <loc>https://melissakspencer.com/tags/policing/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://melissakspencer.com/tags/abortion/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://melissakspencer.com/research/inprogress/abortion/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>https://melissakspencer.com/tags/health/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/tags/policing/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melissakspencer.com/research/inprogress/tasers/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
   </url>
   
   <url>
